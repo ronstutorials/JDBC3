@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d801211-4e6a-4667-8582-1556a0d67a56" name="Default Changelist" comment="" />
+    <list default="true" id="4d801211-4e6a-4667-8582-1556a0d67a56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jdbctutorials/DeleteData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jdbctutorials/DeleteData.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,20 +16,21 @@
     <session id="333287396">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="6" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1635" />
+          <entry key="java" value="1636" />
           <entry key="xml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1635" />
+          <entry key="JAVA" value="1636" />
           <entry key="XML" value="8" />
         </counts>
       </usages-collector>
@@ -57,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jdbctutorials/UpdateData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="425">
               <caret line="25" column="9" selection-start-line="8" selection-end-line="25" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -69,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jdbctutorials/DeleteData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            <state relative-caret-position="119">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -83,6 +86,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -229,7 +235,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jdbctutorials/UpdateData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="425">
           <caret line="25" column="9" selection-start-line="8" selection-end-line="25" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -239,8 +245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jdbctutorials/DeleteData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
